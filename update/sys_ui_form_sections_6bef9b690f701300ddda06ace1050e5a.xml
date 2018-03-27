@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="6bef9b690f701300ddda06ace1050e5a" sys_domain="global" table="x_204017_test_innovate" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-12 13:21:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>efef9b690f701300ddda06ace1050e5c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_204017_test_innovate" name="x_204017_test_innovate" sys_domain="global" view="Default view">6bef9b690f701300ddda06ace1050e5a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_204017_test_innovate" sys_domain="global" view="Default view">2f298f6d0f301300ddda06ace1050ee9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-12 13:21:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-12 13:21:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ebef9b690f701300ddda06ace1050e5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_204017_test_innovate" name="x_204017_test_innovate" sys_domain="global" view="Default view">6bef9b690f701300ddda06ace1050e5a</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_204017_test_innovate" sys_domain="global" view="Default view">2fef9b690f701300ddda06ace1050e59</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-12 13:21:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_204017_test_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-12 13:21:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6bef9b690f701300ddda06ace1050e5a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_204017_test_innovate</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test" source="x_204017_test">8652832d0f301300ddda06ace1050e08</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test">8652832d0f301300ddda06ace1050e08</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6bef9b690f701300ddda06ace1050e5a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-12 13:21:21</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
